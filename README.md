@@ -1,3 +1,3 @@
 # JavaScript-prototype-chain
 JavaScript原型链拓扑图
-![JavaScript原型链](./JavaScript原型链.png)
+<center>![JavaScript原型链](./JavaScript原型链.jpg "JavaScript原型链")</center> 
